@@ -4,7 +4,7 @@
 
 **AI/ML Engineer | Computer Vision | Python Developer | Data Scientist**  
 
-🔭 I’m passionate about building intelligent systems using **Machine Learning**, **Deep Learning**, and **Computer Vision**.  
+🔭 I’m passionate about building intelligent systems using **Machine Learning**, **Deep Learning**, and **Computer Vision**, and **GEN AI**.
 💡 Always exploring cutting-edge AI techniques and implementing them in real-world projects.  
 
 ---
