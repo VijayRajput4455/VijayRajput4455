@@ -49,7 +49,7 @@
 
 ## 📫 Contact Me
 
-- **Email:** vijayrajput@example.com  
+- **Email:** vijayrajput4455@gmail.com  
 - **LinkedIn:** [linkedin.com/in/vijayrajput](https://www.linkedin.com/in/vijayrajput)  
 - **Portfolio:** [www.vijayrajput.com](https://www.vijayrajput.com)  
 
